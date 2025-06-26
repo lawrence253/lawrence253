@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Chau Gia Kiet!
+
+- 🔭 I’m currently working on: **Football Image Processing with OpenCV** and improving my **Machine Learning portfolio**.
+- 🌱 I’m currently learning: **Deep Learning**, **NLP**, and preparing for **model deployment** with tools like Flask & Docker.
+- 👯 I’m looking to collaborate on: **data-driven projects**, especially in **healthcare, sports analytics**, or **AI applications**.
+- 🤔 I’m looking for help with: building robust **MLOps pipelines** and **real-world datasets** for practice.
+- 💬 Ask me about: **Python, SQL, Machine Learning, Data Preprocessing**, or anything related to **EDA & visualization**.
+- 📫 How to reach me: [chkiet253@gmail.com](mailto:chkiet253@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kiet-chau-8b889931a/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once turned raw football match footage into a data-driven analysis dashboard using OpenCV + Python. ⚽📊
 
 <!--
 **lawrence253/lawrence253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
