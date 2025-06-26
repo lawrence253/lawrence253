@@ -3,7 +3,7 @@
 🎓 I’m a third-year **Data Science student** at **VNUHCM - University of Science**, majoring in **Mathematics & Computer Science**.
 
 - 🌱 I’m currently learning: topics related to **Data Engineering** such as **ETL pipelines**, **data warehousing**, **Airflow**, and **Big Data tools** like **Spark** and **Kafka**.
-- 💬 Ask me about: **Python, SQL, Data Preprocessing**, **Machine Learning basics**, or or anything related to **EDA & data visualization**.
+- 💬 Ask me about: **Python, C/C++, Java, SQL, Data Preprocessing**, **Machine Learning basics**, or or anything related to **EDA & data visualization**.
 - 📫 How to reach me: [chkiet253@gmail.com](mailto:chkiet253@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kiet-chau-8b889931a/)
 
 
